@@ -5,7 +5,7 @@ Pipeline de ETL: lee órdenes de uns API(JSON), lee usuarios y productos (desde 
 ## Qué necesitas
 
 - Python 3.9 o superior
-- Java (JRE o JDK 8 u 11) para PySpark
+- Java (JRE o JDK 8, 11, 17 o 21 para PySpark; probado con Java 8 y 21)
 - Opcional: Docker y Docker Compose si quieres usar MSSQL
 
 ## Cómo ejecutarlo
