@@ -1,0 +1,5 @@
+pyspark==3.5.1
+pyarrow>=14.0.0
+pandas>=1.0.5
+pytest==8.2.0
+python-dotenv==1.0.1
